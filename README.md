@@ -40,8 +40,12 @@ Files can be opened with the code editor [(Ctrl-O) for individual files], [(Ctrl
 
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 - https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md
+-https://www.w3schools.com/css/css_rwd_viewport.asp
+-https://www.w3schools.com/html/html_accessibility.asp
 - https://www.markdownguide.org/cheat-sheet/
 - https://choosealicense.com/
+- https://medium.com/@justynagolawska/how-to-easily-add-screenshots-into-your-readme-file-on-github-d806a01d6ffd
+
 ## License
 
 MIT License
