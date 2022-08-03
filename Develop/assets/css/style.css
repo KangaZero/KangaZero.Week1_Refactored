@@ -199,6 +199,7 @@ footer h2 {
     font-size: 20px;
 }
 
+/* for the "love" text to be for screen readers as symbols cannot be read by screen readers*/
 .screen_reader{
     display:none;
 }
