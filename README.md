@@ -26,24 +26,45 @@ I made an attempt to make it mobile-friendly, with little success. However due t
 
 By default, the files (html) included are to be viewed using a web browser such as Chrome/Safari/Mozilla, etc. 
 
+The html (and css) can also be viewed using a browser's devtools with the inspect button
+Instructions: (Chrome)
+1. Open Refactored_Horiseon.html using a browser (Chrome)
+2. On the web browser, right-click (default setting) on your mouse
+3. Move the cursor to the "Inspect" and click to view code on the browser's devtool.
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Another way is to open any of these files is with a code editor tool (eg. VSCode). 
+VSCode can be downloaded under this link https://code.visualstudio.com/download .
+Files can be opened with the code editor [(Ctrl-O) for individual files], [(Ctrl-O-K) for folders]. 
 
 ## Credits
 
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 - https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md
 - https://www.markdownguide.org/cheat-sheet/
-
+- https://choosealicense.com/
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
+
+Copyright (c) [2022] [Samuel Wai Weng Yong]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 ## Features
