@@ -3,12 +3,15 @@
 ## Description
 
 **Why?**
+
 This project was initiated to learn about refactoring an existing built code with visibly working for most (computer) users. However the exisiting code does not flow well semantically and thus, is rather inaccessible to some users. 
 
 **Improvements**
+
 The refactored version will improve upon making it more accessible with the use of semantic tags and apprioriately sectioned. This will not only help others to understand the source code, but also allows search engines and accessbility tools (Screen readers, etc.) to work better.
 
 **Acquired Knowledge**
+
 Throughout this small project I have learnt the importance of avoiding ambuiguity when possible, and what apprioriate element tags to replace them with. I have also understood the importance of making web-development. 
 
 I made an attempt to make it mobile-friendly, with little success. However due to my limited knowledge and time constrains, this issue is yet to be fixed. Due to this, the current version is only built for large screens (eg. Monitors). 
@@ -26,11 +29,16 @@ I made an attempt to make it mobile-friendly, with little success. However due t
 
 By default, the files (html) included are to be viewed using a web browser such as Chrome/Safari/Mozilla, etc. 
 
+![](develop/assets/images/Horiseon_content.png)
+   
+
 The html (and css) can also be viewed using a browser's devtools with the inspect button
 Instructions: (Chrome)
 1. Open Refactored_Horiseon.html using a browser (Chrome)
 2. On the web browser, right-click (default setting) on your mouse
 3. Move the cursor to the "Inspect" and click to view code on the browser's devtool.
+
+![](develop/assets/images/Horiseon_inspect.png)
 
 Another way is to open any of these files is with a code editor tool (eg. VSCode). 
 VSCode can be downloaded under this link https://code.visualstudio.com/download .
@@ -45,6 +53,7 @@ Files can be opened with the code editor [(Ctrl-O) for individual files], [(Ctrl
 - https://www.markdownguide.org/cheat-sheet/
 - https://choosealicense.com/
 - https://medium.com/@justynagolawska/how-to-easily-add-screenshots-into-your-readme-file-on-github-d806a01d6ffd
+-https://favicon.io/favicon-generator/
 
 ## License
 
