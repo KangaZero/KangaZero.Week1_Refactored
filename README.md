@@ -2,14 +2,17 @@
 
 ## Description
 
+**Why?**
 This project was initiated to learn about refactoring an existing built code with visibly working for most (computer) users. However the exisiting code does not flow well semantically and thus, is rather inaccessible to some users. 
 
-The refactored version will improve upon making it more accessible with the use of semantic tags and apprioriately sectioned. 
+**Improvements**
+The refactored version will improve upon making it more accessible with the use of semantic tags and apprioriately sectioned. This will not only help others to understand the source code, but also allows search engines and accessbility tools (Screen readers, etc.) to work better.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+**Acquired Knowledge**
+Throughout this small project I have learnt the importance of avoiding ambuiguity when possible, and what apprioriate element tags to replace them with. I have also understood the importance of making web-development. 
+
+I made an attempt to make it mobile-friendly, with little success. However due to my limited knowledge and time constrains, this issue is yet to be fixed. Due to this, the current version is only built for large screens (eg. Monitors). 
+
 
 ## Table of Contents
 
@@ -17,12 +20,12 @@ The refactored version will improve upon making it more accessible with the use 
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+- [Features](#features)
 
 ## Usage
+
+By default, the files (html) included are to be viewed using a web browser such as Chrome/Safari/Mozilla, etc. 
+
 
 Provide instructions and examples for use. Include screenshots as needed.
 
@@ -36,32 +39,17 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 - https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md
-- 
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+- https://www.markdownguide.org/cheat-sheet/
 
 ## License
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 ## Features
 
-If your project has a lot of features, list them here.
+- Semantic elements implemented (Header, body, nav, etc)
+- Search engines are now able to pull the main content with the "main" element tag, and avoids pulling from the "aside" tag.
+- ❤️ is complemented with the "love" description made invisible to the user, but useful for screen readers. 
 
-## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.

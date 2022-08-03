@@ -198,3 +198,38 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+.screen_reader{
+    display:none;
+}
+
+/* An attempt to make it mobile-friendly. Need more time and knowledge
+
+@media screen and (max-width: 992px) {
+
+header, nav, .content{
+    flex-flow: column wrap;
+    justify-content: center;
+}
+ 
+ img
+{
+    display: flex;
+    min-width: 400px;
+    flex-wrap: wrap;
+}
+
+.benefits{
+    float: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    height:fit-content;
+}
+
+.online-reputation-management h2{
+ margin-bottom: 10px;
+}
+
+}
+*/
